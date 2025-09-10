@@ -5,7 +5,7 @@
 <p>It is Python-based source code with optimal models for estimating horizontal site amplification factors (HSAF) using solely horizontal-to-vertical spectral ratios of microtremors (MHVSR). The optimal models are based on a newly introduced hybrid machine learning framework following the concept of homogeneous transfer learning.</p> 
 <h1>Please cite the code as:</h1>
 <p>Thabet, M., 2025. Hybrid Machine Learning Models to Calculate Horizontal Site Amplification Factors Using H/V of Microtremors.</p>
-<p>Thabet, M., Omar, K., 2025. Hybrid Machine Learning Framework for Horizontal Site Amplification Factors Estimation Using H/V of Microtremors and Earthquakes. Computers & Geoscience (submitted).</p>
+<p>Thabet, M., Omar, K., 2025. Hybrid Machine Learning Framework for Horizontal Site Amplification Factors Estimation Using H/V of Microtremors and Earthquakes. Computers & Geoscience (submitted September 2025).</p>
 
 
 <h1>How do I get set up?</h1>

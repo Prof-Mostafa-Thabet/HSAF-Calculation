@@ -41,7 +41,7 @@
 
 <h1>Usage</h1>
 
-<p>Open the “HSAF-combined-constrained.py” and make sure to have all the downloaded files in one directory.</p>
+<p>Open the “HSAF-combined-constrained.py” and make sure to have all the downloaded files in one directory. Please use Python (Ver. 3.12) interpreter. </p>
 
 <p>Each input MHVSR file contains eight columns. From the first column through the eighth column, you must have frequency points, first peak frequency, first trough frequency, second peak frequency, second trough peak frequency, average MHVSR, MHVSR-std, MHVSR+std. Note that std is one standard deviation. If the MHVSR contains only one peak frequency, then, make the second peak frequency and second trough peak frequency equal to the first peak frequency and first trough frequency, respectively.</p>   
 

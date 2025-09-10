@@ -1,6 +1,6 @@
 <h1>HSAF-Calculation</h1>
 <img width="886" height="628" alt="image" src="https://github.com/user-attachments/assets/1b1ffd0c-a898-452f-a722-66bb29d61c3c" />
-<h1>Last Update. 2025-9-10 …</h1>
+<h1>Last Update. 2025-9-11 …</h1>
 <h1>What is this repository for?</h1>
 <p>It is Python-based source code with optimal models for estimating horizontal site amplification factors (HSAF) using solely horizontal-to-vertical spectral ratios of microtremors (MHVSR). The optimal models are based on a newly introduced hybrid machine learning framework following the concept of homogeneous transfer learning.</p> 
 <h1>Please cite the code as:</h1>

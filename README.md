@@ -4,7 +4,7 @@
 <h1>What is this repository for?</h1>
 <p>It is Python-based source code with optimal models for estimating horizontal site amplification factors (HSAF) using solely horizontal-to-vertical spectral ratios of microtremors (MHVSR). The optimal models are based on a newly introduced hybrid machine learning framework following the concept of homogeneous transfer learning.</p> 
 <h1>Please cite the code as:</h1>
-<p>Thabet, M., 2025. Hybrid Machine Learning Models to Calculate Horizontal Site Amplification Factors Using H/V of Microtremors.</p>
+<p>Thabet, M. (2025). Hybrid Machine Learning Models to Calculate Horizontal Site Amplification Factors Using H/V of Microtremors (1.0). Zenodo. https://doi.org/10.5281/zenodo.17092210 </p>
 <p>Thabet, M., Omar, K., 2025. Hybrid Machine Learning Framework for Horizontal Site Amplification Factors Estimation Using H/V of Microtremors and Earthquakes. Computers & Geoscience (submitted September 2025).</p>
 
 
@@ -12,7 +12,7 @@
 
 <p>First, download the source code, example input and output files, PyTorch model, averages of k-means clustering, scaler files for input (x) and output (y) features files.</p>
 
-<p>Then, the models of random forest and gradient boosting are available from the https:// , because these models of random forest and gradient boosting have sizes larger than 2.7 GB, which are larger than the capacity of GitHub.</p> 
+<p>Then, the models of random forest and gradient boosting are available from the (https://doi.org/10.5281/zenodo.17092210), because these models of random forest and gradient boosting have sizes larger than 2.97 GB, which are larger than the capacity of GitHub.</p> 
 
 <p>Please check the list below (next section) and make sure that you download all these required files.</p> 
 
@@ -62,3 +62,4 @@
 <p>Creative Commons Attribution 4.0 International</p>
 
 <p>The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.</p>
+<h3>Copyright (C) 2025 Mostafa Thabet</h3>

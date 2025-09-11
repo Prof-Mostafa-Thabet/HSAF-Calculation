@@ -1,0 +1,16 @@
+# X_observed5_avg1, X_observed5_avg2, X_observed5_avg3, X_observed5_avg4, X_observed5_avg5, X_observed5_avg6, X_observed5_avg7
+3.236198
+5.816961
+1.824568
+4.227500
+38.649022
+17.053239
+1.480528
+15.725364
+6.645732
+1.910441
+8.951675
+33.392240
+0.683777
+2.532079
+6.912374
